@@ -1,12 +1,12 @@
 {
-  "id": 8586,
-  "timestamp": "2025-01-01 01:41:08",
+  "id": 432,
+  "timestamp": "2025-01-01 08:54:00",
   "data": {
-    "value": 664,
-    "status": "pending",
+    "value": 8,
+    "status": "active",
     "metadata": {
       "source": "auto-generated",
-      "version": "1.0.41"
+      "version": "1.6.39"
     }
   },
   "notes": "Historical data point generated for testing"
