@@ -1,0 +1,13 @@
+{
+  "id": 5222,
+  "timestamp": "2025-01-01 06:21:28",
+  "data": {
+    "value": 631,
+    "status": "pending",
+    "metadata": {
+      "source": "auto-generated",
+      "version": "1.5.52"
+    }
+  },
+  "notes": "Historical data point generated for testing"
+}
